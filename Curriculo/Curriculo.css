@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url("Imagens/fundo.png") no-repeat center center fixed;
+    background-size: cover;
+    padding: 20px;
+}
+
+.cv {
+    background: #3030306b;
+    padding: 30px;
+    max-width: 850px;
+    margin: auto;
+    border-radius: 12px;
+    border: 2px solid #4C1D95;
+    box-shadow: 0 0 20px rgba(76, 29, 149, 0.6);
+
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #4f0bce;
+}
+
+h2 {
+    margin-top: 35px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #5f00ad;
+
+    
+    color: #A78BFA;
+}
+
+h3 {
+    
+    color: #6D28D9;
+
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+p, li {
+    font-size: 17px;
+    line-height: 1.6;
+    color: #f2f2f2;
+}
+
+a {
+    
+    color: #2522c7;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    
+    color: #A78BFA;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.repositorios {
+     color: #6D28D9;
+
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
